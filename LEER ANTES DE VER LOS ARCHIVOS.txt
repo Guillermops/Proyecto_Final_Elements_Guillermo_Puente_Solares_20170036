@@ -1,0 +1,12 @@
+Buenas tardes Samuel y Paulo.
+
+Hay dos notebooks, el principal, en donde se hace el proyecto usando las RN y se detalla todo el proceso y en el segundo se lleva a cabo el método de EffectiveNet (State-of-the-Art).
+
+El motivo para que estén separados es que mi computadora no tiene las capacidades para correr los modelos, incluso con tamaño pequeño de fotos y pocas imágenes, por lo que busqué una alternativa para este problema y realicé el proyecto en Google Colab.
+
+Pero, teniendo en cuenta que Colab tiene una memoria limitada para este tipo de usuarios, si intetnaba correr ambos métodos en el mismo notebook tiraba un error de OOM (Out of Memory) por lo que lo hice en dos notebooks distintos, pero en el de EffectiveNet está ese modelo y la respectiva explicación.
+
+El archivo zip contiene las imágenes que se usaron para ambos modelos.
+
+
+Muchas gracias y feliz descanso.
